@@ -16,6 +16,7 @@ I’m a **third-year student at Warsaw University of Technology** with a passion
 ---
 
 # 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=matios102&label=Profile%20views&color=0e75b6&style=flat)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Matios102&theme=dark&hide_border=false)<br/>
 
 ---
