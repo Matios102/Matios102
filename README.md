@@ -15,6 +15,11 @@ I’m a **third-year student at Warsaw University of Technology** with a passion
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Matios102&theme=dark&hide_border=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=Matios102&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 ## 🌐 Connect with Me  
 
 - **LinkedIn:** [Mateusz Osik](www.linkedin.com/in/mateusz-osik-6656bb2a8)  
